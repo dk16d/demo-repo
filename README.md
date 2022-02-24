@@ -4,4 +4,8 @@ This is a .md "mark-down" file with some cool formatting shortcuts (like # for a
 
 Added a line (or two)!
 
-## Added this line on local machine.
+## Subheader: Added this line on local machine.
+
+## Local develoment
+
+1. Open index.html in your browser.
